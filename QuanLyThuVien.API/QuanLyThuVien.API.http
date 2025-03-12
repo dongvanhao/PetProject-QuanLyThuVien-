@@ -1,0 +1,6 @@
+@QuanLyThuVien.API_HostAddress = http://localhost:5282
+
+GET {{QuanLyThuVien.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
