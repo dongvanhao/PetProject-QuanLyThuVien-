@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zIkwJ1RnkMI=",
+  "dgSpecHash": "ZowGpMchxIA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien(PetProject)\\QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj",
+  "projectFilePath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dongv\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dongv\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

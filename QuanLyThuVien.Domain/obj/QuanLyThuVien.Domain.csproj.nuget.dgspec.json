@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien(PetProject)\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj": {}
+    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien(PetProject)\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj": {
+    "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien(PetProject)\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj",
         "projectName": "QuanLyThuVien.Domain",
-        "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien(PetProject)\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj",
+        "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj",
         "packagesPath": "C:\\Users\\dongv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien(PetProject)\\QuanLyThuVien.Domain\\obj\\",
+        "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
