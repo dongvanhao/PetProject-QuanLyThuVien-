@@ -4102,11 +4102,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj",
+      "projectUniqueName": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj",
       "projectName": "QuanLyThuVien.Application",
-      "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj",
+      "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj",
       "packagesPath": "C:\\Users\\dongv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\obj\\",
+      "outputPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4127,8 +4127,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj": {
-              "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\PetProject(QuanLyThuVien)\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj"
+            "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj": {
+              "projectPath": "C:\\Users\\dongv\\OneDrive\\Máy tính\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj"
             }
           }
         }

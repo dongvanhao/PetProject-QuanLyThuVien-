@@ -1,0 +1,15 @@
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\bin\Debug\net8.0\QuanLyThuVien.Domain.deps.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\bin\Debug\net8.0\QuanLyThuVien.Domain.runtimeconfig.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\bin\Debug\net8.0\QuanLyThuVien.Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\bin\Debug\net8.0\QuanLyThuVien.Domain.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\QuanLyThuVien.Domain.csproj.AssemblyReference.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\QuanLyThuVien.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\QuanLyThuVien.Domain.AssemblyInfoInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\QuanLyThuVien.Domain.AssemblyInfo.cs
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\QuanLyThuVien.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\QuanLyThuVien.Domain.sourcelink.json
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\QuanLyThuVien.Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\refint\QuanLyThuVien.Domain.dll
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\QuanLyThuVien.Domain.pdb
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\QuanLyThuVien.Domain.genruntimeconfig.cache
+C:\Users\dongv\OneDrive\Máy tính\C#\HocC#\TuluyenAPI\QuanLyThuVien\PetProject-QuanLyThuVien-\QuanLyThuVien.Domain\obj\Debug\net8.0\ref\QuanLyThuVien.Domain.dll
