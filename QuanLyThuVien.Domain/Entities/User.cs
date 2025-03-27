@@ -15,7 +15,7 @@ namespace QuanLyThuVien.Domain.Entities
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int UserId { get; set; }
         [Required]
-        public string Name { get; set; }
+        public string FullName { get; set; }
         [StringLength(50)]
         public string Email { get; set; }
         public ICollection<LoanRecord>? LoanRecords { get; set; }//Quan he 1-n

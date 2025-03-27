@@ -6,20 +6,8 @@ using System.Threading.Tasks;
 
 namespace QuanLyThuVien.Application.DTOs
 {
-    public class UpdateBookDto
+    public class UpdateBookDto : CreateBookDto
     {
         public int BookId { get; set; }//Khoa chinh
-
-        public string Author { get; set; }//Tac gia
-
-        public int Year { get; set; }
-
-        public int Cost { get; set; }//Gia
-
-        public string Genre { get; set; }//Loai
-
-        public string ISBN { get; set; }//Ma ISBN
-
-        public bool IsAvailable { get; set; } = true;//Trang thai sach 
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuanLyThuVien.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa21b0719e7fa977dfc1fedb4ab443ba4f447aaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f61d9cec6f61534b6ca86f8a4067b0133ec7b73")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuanLyThuVien.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuanLyThuVien.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

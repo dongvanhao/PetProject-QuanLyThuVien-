@@ -15,13 +15,13 @@ namespace QuanLyThuVien.Application.DTOs
       
         public int Year { get; set; }
 
-        public int Cost { get; set; }//Gia
+        public string Cost { get; set; }//Gia
 
         public string Genre { get; set; }//Loai
 
         public string ISBN { get; set; }//Ma ISBN
 
-        public bool IsAvailable { get; set; } = true;//Trang thai sach 
+        public int AvailableCopies { get; set; }
 
 
     }

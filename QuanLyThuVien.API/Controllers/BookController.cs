@@ -1,55 +1,66 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using QuanLySinhVien.Application.Interfaces;
+using QuanLySinhVien.Application.Services;
 using QuanLyThuVien.Application.DTOs;
-using QuanLyThuVien.Application.Interfaces;
 
-namespace QuanLyThuVien.API.Controllers
+namespace QuanLySinhVien.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class BookController : ControllerBase
     {
-        private readonly IBookService _bookService;
-        public BookController(IBookService bookService)
+        private readonly IBookService _service;
+
+        public BookController(IBookService service)
         {
-            _bookService = bookService;
-        }
-        [HttpGet]
-        public async Task<IActionResult> GetAllBooks()
-        {
-            var books = await _bookService.GetAllBooksAsync();
-            return Ok(books);
+            _service = service;
         }
 
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetBookById(int id)
+        [HttpGet]
+        public async Task<IActionResult> GetAll([FromQuery] string? keyword, int page = 1, int pageSize = 10)
         {
-            var book = await _bookService.GetByIdAsync(id);
+            try
+            {
+                var books = await _service.GetAllAsync(keyword, page, pageSize);
+                return Ok(books);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = ex.Message });
+            }
+        }
+
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            var book = await _service.GetByIdAsync(id);
             if (book == null) return NotFound();
             return Ok(book);
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddBook([FromBody] CreateBookDto bookDto)
+        public async Task<IActionResult> Create(CreateBookDto dto)
         {
-            var createdBook = await _bookService.AddBookAsync(bookDto);
-            return CreatedAtAction(nameof(GetBookById), new { id = createdBook.BookId }, createdBook);
+            var book = await _service.CreateAsync(dto);
+            return CreatedAtAction(nameof(GetById), new { id = book.BookId }, book);
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateBook(int id, [FromBody] UpdateBookDto bookDto)
+        public async Task<IActionResult> Update(int id, UpdateBookDto dto)
         {
-            if (id != bookDto.BookId) return BadRequest("Id mismatch");
-            await _bookService.UpdateBookAsync(bookDto);
+            if (id != dto.BookId) return BadRequest();
+            var success = await _service.UpdateAsync(dto);
+            if (!success) return NotFound();
             return NoContent();
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteBook(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            await _bookService.DeleteBookAsync(id);
+            var success = await _service.DeleteAsync(id);
+            if (!success) return NotFound();
             return NoContent();
         }
     }
 }
-
