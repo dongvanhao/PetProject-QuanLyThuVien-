@@ -1,107 +1,62 @@
 ﻿using AutoMapper;
+
+using QuanLySinhVien.Application.Interfaces;
+
 using QuanLyThuVien.Application.DTOs;
-using QuanLyThuVien.Application.Interfaces;
 using QuanLyThuVien.Domain.Entities;
 using QuanLyThuVien.Domain.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
-namespace QuanLyThuVien.Application.Services
+namespace QuanLySinhVien.Application.Services
 {
     public class BookService : IBookService
     {
-        private readonly IBookRepository _bookRepository;
+        private readonly IBookRepository _repository;
         private readonly IMapper _mapper;
 
-        public BookService(IBookRepository bookRepository, IMapper mapper)
+        public BookService(IBookRepository repository, IMapper mapper)
         {
-            _bookRepository = bookRepository;
+            _repository = repository;
             _mapper = mapper;
         }
 
-        // Lấy danh sách tất cả sách, map từ entity Book sang BookDto
-        public async Task<IEnumerable<BookDto>> GetAllBooksAsync()
+        public async Task<BookDto> CreateAsync(CreateBookDto dto)
         {
-            var books = await _bookRepository.GetAllAsync();
-            return _mapper.Map<IEnumerable<BookDto>>(books);
-        }
+            var book = _mapper.Map<Book>(dto);
+            book.AvailableCopies = book.TotalCopies;
 
-        // Lấy sách theo ID, nếu không tìm thấy ném ngoại lệ
-        public async Task<BookDto> GetByIdAsync(int id)
-        {
-            var book = await _bookRepository.GetByIdAsync(id);
-            if (book == null)
-                throw new KeyNotFoundException($"Book with id {id} not found.");
+            await _repository.AddAsync(book);
             return _mapper.Map<BookDto>(book);
         }
 
-        // Thêm mới sách: chuyển CreateBookDto sang Book, lưu và map kết quả sang BookDto
-        public async Task<BookDto> AddBookAsync(CreateBookDto createBookDto)
+        public async Task<bool> DeleteAsync(int id)
         {
-            var book = _mapper.Map<Book>(createBookDto);
-            var createdBook = await _bookRepository.AddAsync(book);
-            return _mapper.Map<BookDto>(createdBook);
+            var book = await _repository.GetByIdAsync(id);
+            if (book == null) return false;
+
+            await _repository.DeleteAsync(id);
+            return true;
         }
 
-        // Cập nhật sách: lấy sách theo ID, cập nhật các thuộc tính từ UpdateBookDto, sau đó lưu thay đổi
-        public async Task UpdateBookAsync(UpdateBookDto updateBookDto)
+        public async Task<IEnumerable<BookDto>> GetAllAsync(string? keyword, int page, int pageSize)
         {
-            var book = await _bookRepository.GetByIdAsync(updateBookDto.BookId);
-            if (book == null)
-                throw new KeyNotFoundException($"Book with id {updateBookDto.BookId} not found.");
-
-            // Map các thuộc tính cập nhật từ DTO sang entity hiện có
-            _mapper.Map(updateBookDto, book);
-            await _bookRepository.UpdateAsync(book);
+            var books = await _repository.SearchAsync(keyword, page, pageSize);
+            return _mapper.Map<IEnumerable<BookDto>>(books);
         }
 
-        // Xóa sách theo ID
-        public async Task DeleteBookAsync(int id)
+        public async Task<BookDto?> GetByIdAsync(int id)
         {
-            await _bookRepository.DeleteAsync(id);
+            var book = await _repository.GetByIdAsync(id);
+            return book == null ? null : _mapper.Map<BookDto>(book);
         }
 
-        // Lấy sách theo tác giả (theo tên tác giả hoặc chứa chuỗi tìm kiếm)
-        public async Task<List<BookDto>> GetBooksByAuthor(string author)
+        public async Task<bool> UpdateAsync(UpdateBookDto dto)
         {
-            var books = await _bookRepository.GetBooksByAuthor(author);
-            return _mapper.Map<List<BookDto>>(books);
-        }
+            var book = await _repository.GetByIdAsync(dto.BookId);
+            if (book == null) return false;
 
-        // Lấy sách theo thể loại
-        public async Task<List<BookDto>> GetBooksByGenre(string genre)
-        {
-            var books = await _bookRepository.GetBooksByGenre(genre);
-            return _mapper.Map<List<BookDto>>(books);
-        }
-
-        // Lấy sách theo giá
-        public async Task<List<BookDto>> GetBooksByCost(int cost)
-        {
-            var books = await _bookRepository.GetBooksByCost(cost);
-            return _mapper.Map<List<BookDto>>(books);
-        }
-
-        // Lấy sách theo năm xuất bản
-        public async Task<List<BookDto>> GetBooksByYear(int year)
-        {
-            var books = await _bookRepository.GetBooksByYear(year);
-            return _mapper.Map<List<BookDto>>(books);
-        }
-
-        // Lấy sách theo trạng thái có sẵn
-        public async Task<List<BookDto>> GetBooksByAvailability(bool isAvailable)
-        {
-            var books = await _bookRepository.GetBooksByAvailability(isAvailable);
-            return _mapper.Map<List<BookDto>>(books);
-        }
-
-        // Lấy sách theo phân trang
-        public async Task<List<BookDto>> GetPagedBooksAsync(int pageNumber, int pageSize)
-        {
-            var books = await _bookRepository.GetPagedBooksAsync(pageNumber, pageSize);
-            return _mapper.Map<List<BookDto>>(books);
+            _mapper.Map(dto, book);
+            await _repository.UpdateAsync(book);
+            return true;
         }
     }
 }

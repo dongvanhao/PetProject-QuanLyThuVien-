@@ -23,6 +23,7 @@ namespace QuanLyThuVien.Infrastructure.Data
             }
         }
         public DbSet<QuanLyThuVien.Domain.Entities.Book> Books { get; set; }
+        public DbSet<QuanLyThuVien.Domain.Entities.User> Users { get; set; }
         public DbSet<QuanLyThuVien.Domain.Entities.LoanRecord> LoanRecords { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

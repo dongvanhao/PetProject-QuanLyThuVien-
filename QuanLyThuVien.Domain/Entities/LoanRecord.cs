@@ -30,6 +30,6 @@ namespace QuanLyThuVien.Domain.Entities
         // Thời gian trả sách. Có thể để null nếu sách chưa được trả.
         public DateTime? ReturnDate { get; set; }
         // Trạng thái trả sách: true nếu sách đã được trả
-        public bool IsReturned { get; set; } = false;//Trang thai tra sach
+        public bool IsReturned => ReturnDate.HasValue;//Trang thai tra sach
     }
 }

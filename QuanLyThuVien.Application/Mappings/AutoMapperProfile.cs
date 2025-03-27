@@ -13,10 +13,18 @@ namespace QuanLyThuVien.Application.Mappings
     {
         public AutoMapperProfile()
         {
-            CreateMap<Book, BookDto>();
-            CreateMap<CreateBookDto, Book>()
-            .ForMember(dest => dest.BookId, opt => opt.Ignore()); // ✅ Không map ID từ CreateBookDto
+            CreateMap<Book, BookDto>().ReverseMap();
+            CreateMap<CreateBookDto, Book>();
             CreateMap<UpdateBookDto, Book>();
+
+            CreateMap<User, UserDto>().ReverseMap();
+            CreateMap<CreateUserDto, User>();
+            CreateMap<UpdateUserDto, User>();
+
+            CreateMap<LoanRecord, LoanRecordDto>();
+
+            CreateMap<CreateLoanRecordDto, LoanRecord>();
+
         }
     }
 }

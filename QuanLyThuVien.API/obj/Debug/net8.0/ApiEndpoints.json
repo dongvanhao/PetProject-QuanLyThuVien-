@@ -1,24 +1,40 @@
 [
   {
-    "ContainingType": "QuanLyThuVien.API.Controllers.BookController",
-    "Method": "GetAllBooks",
+    "ContainingType": "QuanLySinhVien.API.Controllers.BookController",
+    "Method": "GetAll",
     "RelativePath": "api/Book",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "QuanLyThuVien.API.Controllers.BookController",
-    "Method": "AddBook",
+    "ContainingType": "QuanLySinhVien.API.Controllers.BookController",
+    "Method": "Create",
     "RelativePath": "api/Book",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "bookDto",
+        "Name": "dto",
         "Type": "QuanLyThuVien.Application.DTOs.CreateBookDto",
         "IsRequired": true
       }
@@ -26,8 +42,8 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "QuanLyThuVien.API.Controllers.BookController",
-    "Method": "GetBookById",
+    "ContainingType": "QuanLySinhVien.API.Controllers.BookController",
+    "Method": "GetById",
     "RelativePath": "api/Book/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -42,8 +58,8 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "QuanLyThuVien.API.Controllers.BookController",
-    "Method": "UpdateBook",
+    "ContainingType": "QuanLySinhVien.API.Controllers.BookController",
+    "Method": "Update",
     "RelativePath": "api/Book/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
@@ -55,7 +71,7 @@
         "IsRequired": true
       },
       {
-        "Name": "bookDto",
+        "Name": "dto",
         "Type": "QuanLyThuVien.Application.DTOs.UpdateBookDto",
         "IsRequired": true
       }
@@ -63,8 +79,8 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "QuanLyThuVien.API.Controllers.BookController",
-    "Method": "DeleteBook",
+    "ContainingType": "QuanLySinhVien.API.Controllers.BookController",
+    "Method": "Delete",
     "RelativePath": "api/Book/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
@@ -74,6 +90,149 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyThuVien.API.Controllers.LoanRecordController",
+    "Method": "Borrow",
+    "RelativePath": "api/LoanRecord/borrow",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "QuanLyThuVien.Application.DTOs.CreateLoanRecordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyThuVien.API.Controllers.LoanRecordController",
+    "Method": "History",
+    "RelativePath": "api/LoanRecord/history/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyThuVien.API.Controllers.LoanRecordController",
+    "Method": "Return",
+    "RelativePath": "api/LoanRecord/return/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyThuVien.API.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyThuVien.API.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "QuanLyThuVien.Application.DTOs.CreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyThuVien.API.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyThuVien.API.Controllers.UserController",
+    "Method": "Update",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "QuanLyThuVien.Application.DTOs.UpdateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyThuVien.API.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyThuVien.API.Controllers.UserController",
+    "Method": "GetByEmail",
+    "RelativePath": "api/User/by-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
