@@ -95,6 +95,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "QuanLySinhVien.API.Controllers.BookController",
+    "Method": "GetBooksByFilter",
+    "RelativePath": "api/Book/filter-options",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "field",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "QuanLyThuVien.API.Controllers.LoanRecordController",
     "Method": "Borrow",
     "RelativePath": "api/LoanRecord/borrow",

@@ -58,5 +58,14 @@ namespace QuanLyThuVien.Infrastructure.Repositories
             }
         }
 
+
+        //Test
+
+        public IQueryable<T> GetAllQueryable()
+        {
+            return _dbSet.AsQueryable();
+        }
+
+
     }
 }

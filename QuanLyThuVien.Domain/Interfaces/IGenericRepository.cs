@@ -20,5 +20,11 @@ namespace QuanLyThuVien.Domain.Repositories
         //Xoa ban ghi cua T
         Task DeleteAsync(int id);
 
+
+
+        //test
+        IQueryable<T> GetAllQueryable();
+
+
     }
 }
