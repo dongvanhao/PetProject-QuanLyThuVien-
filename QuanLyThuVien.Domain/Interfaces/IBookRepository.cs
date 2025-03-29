@@ -12,5 +12,13 @@ namespace QuanLyThuVien.Domain.Interfaces
     {
         Task<IEnumerable<Book>> SearchAsync(string? keyword, int page, int pageSize);
         Task<int> CountAsync(string? keyword);
+        Task<List<Book>> GetBooksWithLoanRecordsAsync();
+
+        //top sach 5 dc muon nhieu nhat
+        Task<List<Book>> GetTopBorrowedBooksAsync(int top);
+
+        //Lấy danh sách sách cùng với người đã mượn
+        Task<List<Book>> GetBooksWithLoanUsersAsync();
+
     }
 }

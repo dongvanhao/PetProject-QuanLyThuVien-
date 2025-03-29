@@ -24,7 +24,7 @@ namespace QuanLyThuVien.Domain.Repositories
 
         //test
         IQueryable<T> GetAllQueryable();
-
+        
 
     }
 }
