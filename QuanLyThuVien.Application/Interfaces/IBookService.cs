@@ -10,5 +10,9 @@ namespace QuanLySinhVien.Application.Interfaces
         Task<BookDto> CreateAsync(CreateBookDto dto);
         Task<bool> UpdateAsync(UpdateBookDto dto);
         Task<bool> DeleteAsync(int id);
+
+        //Test
+        Task<List<BookDetailDto>> GetBooksByFieldAsync(string field, string? value);
+
     }
 }

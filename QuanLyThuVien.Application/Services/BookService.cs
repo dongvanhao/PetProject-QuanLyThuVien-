@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-
+using Microsoft.EntityFrameworkCore;
 using QuanLySinhVien.Application.Interfaces;
 
 using QuanLyThuVien.Application.DTOs;
@@ -58,5 +58,38 @@ namespace QuanLySinhVien.Application.Services
             await _repository.UpdateAsync(book);
             return true;
         }
+
+        //Test
+        public async Task<List<BookDetailDto>> GetBooksByFieldAsync(string field, string? value)
+        {
+            var query = _repository.GetAllQueryable();
+
+            if (!string.IsNullOrEmpty(value))
+            {
+                switch (field.ToLower())
+                {
+                    case "title":
+                        query = query.Where(b => b.Title == value);
+                        break;
+                    case "author":
+                        query = query.Where(b => b.Author == value);
+                        break;
+                    case "genre":
+                        query = query.Where(b => b.Genre == value);
+                        break;
+                    case "year":
+                        if (int.TryParse(value, out var year))
+                            query = query.Where(b => b.Year == year);
+                        break;
+                    default:
+                        return new List<BookDetailDto>();
+                }
+            }
+
+            var books = await query.ToListAsync();
+            return _mapper.Map<List<BookDetailDto>>(books);
+        }
+
+
     }
 }

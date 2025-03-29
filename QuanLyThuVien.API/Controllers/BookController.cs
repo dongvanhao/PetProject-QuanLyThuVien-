@@ -62,5 +62,16 @@ namespace QuanLySinhVien.API.Controllers
             if (!success) return NotFound();
             return NoContent();
         }
+
+        //Test
+        [HttpGet("filter-options")]
+        public async Task<IActionResult> GetBooksByFilter([FromQuery] string field, [FromQuery] string? value)
+        {
+            var books = await _service.GetBooksByFieldAsync(field, value);
+            return Ok(books);
+        }
+
+
+
     }
 }

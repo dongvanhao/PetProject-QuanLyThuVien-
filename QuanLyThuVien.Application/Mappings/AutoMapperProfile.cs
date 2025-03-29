@@ -25,6 +25,13 @@ namespace QuanLyThuVien.Application.Mappings
 
             CreateMap<CreateLoanRecordDto, LoanRecord>();
 
+            // Ánh xạ Book → BookDetailDto
+            CreateMap<Book, BookDetailDto>();
+
+            // Các ánh xạ khác nếu có
+            CreateMap<CreateBookDto, Book>();
+            CreateMap<UpdateBookDto, Book>();
+
         }
     }
 }
