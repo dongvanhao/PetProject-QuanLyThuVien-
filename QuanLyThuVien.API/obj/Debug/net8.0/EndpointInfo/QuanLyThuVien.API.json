@@ -500,6 +500,10 @@
       "CreateBookDto": {
         "type": "object",
         "properties": {
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
           "author": {
             "type": "string",
             "nullable": true
@@ -558,6 +562,10 @@
       "UpdateBookDto": {
         "type": "object",
         "properties": {
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
           "author": {
             "type": "string",
             "nullable": true
