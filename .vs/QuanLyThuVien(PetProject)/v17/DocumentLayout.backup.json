@@ -3,52 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5961352A-0071-407C-B80F-021B916FA966}|Solution Items{5961352A-0071-407C-B80F-021B916FA966}|C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\EditorConfig File||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5961352A-0071-407C-B80F-021B916FA966}|Solution Items{5961352A-0071-407C-B80F-021B916FA966}|solutionrelative:EditorConfig File||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|solutionrelative:quanlythuvien.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|solutionrelative:quanlythuvien.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\bookdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\bookdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.infrastructure\\repositories\\loanrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|solutionrelative:quanlythuvien.infrastructure\\repositories\\loanrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|solutionrelative:quanlythuvien.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|solutionrelative:quanlythuvien.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\entities\\loanrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\entities\\loanrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\services\\loanrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\services\\loanrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\userloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\userloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\topborrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\topborrowedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\loanrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\loanrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\createloanrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\createloanrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\bookwithuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\bookwithuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\booksummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\booksummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\bookdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\bookdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|solutionrelative:quanlythuvien.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|solutionrelative:quanlythuvien.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|solutionrelative:quanlythuvien.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.api\\controllers\\loanrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|solutionrelative:quanlythuvien.api\\controllers\\loanrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.infrastructure\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,76 +139,12 @@
       "RelativeMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|solutionrelative:quanlythuvien.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.api\\controllers\\loanrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|solutionrelative:quanlythuvien.api\\controllers\\loanrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\services\\loanrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\services\\loanrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\interfaces\\iloanrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\interfaces\\iloanrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.infrastructure\\repositories\\loanrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|solutionrelative:quanlythuvien.infrastructure\\repositories\\loanrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|solutionrelative:quanlythuvien.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\entities\\loanrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\entities\\loanrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\loanrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\loanrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\createloanrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\createloanrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015B0ECF-DBA1-4D13-814E-28DA6101A0A6}|QuanLyThuVien.Domain\\QuanLyThuVien.Domain.csproj|solutionrelative:quanlythuvien.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEDACC22-43FE-411B-9BCB-E61B3C03A6C2}|QuanLyThuVien.API\\QuanLyThuVien.API.csproj|solutionrelative:quanlythuvien.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.application\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED1A954-EAED-47F3-BC51-E80B5E8659F8}|QuanLyThuVien.Application\\QuanLyThuVien.Application.csproj|solutionrelative:quanlythuvien.application\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8411378-F39A-431F-A876-CD710949E902}|QuanLyThuVien.Infrastructure\\QuanLyThuVien.Infrastructure.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\quanlythuvien\\petproject-quanlythuvien-\\quanlythuvien.infrastructure\\migrations\\20250327090138_newint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 308,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,358 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\BookService.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\Services\\BookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:32:04.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookDetailDto.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\BookDetailDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookDetailDto.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\BookDetailDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T06:01:25.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Entities\\Book.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Entities\\Book.cs",
-              "RelativeToolTip": "QuanLyThuVien.Domain\\Entities\\Book.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:30:55.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Interfaces\\IBookService.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Interfaces\\IBookService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Interfaces\\IBookService.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\Interfaces\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T05:53:25.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.API\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\BookController.cs",
-              "RelativeToolTip": "QuanLyThuVien.API\\Controllers\\BookController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAqwEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:33:10.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Mappings\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Mappings\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Mappings\\AutoMapperProfile.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\Mappings\\AutoMapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:26:57.037Z",
+              "Title": "EditorConfig File",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\EditorConfig File",
+              "RelativeDocumentMoniker": "EditorConfig File",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\EditorConfig File",
+              "RelativeToolTip": "EditorConfig File",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T07:54:32.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:55:32.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateBookDto.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\CreateBookDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateBookDto.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\CreateBookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:31:19.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "QuanLyThuVien.Domain\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T05:54:40.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:08:53.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:23:21.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:30:07.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DbInitiaLizer.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Data\\DbInitiaLizer.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Data\\DbInitiaLizer.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Data\\DbInitiaLizer.cs",
-              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Data\\DbInitiaLizer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:08:36.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Program.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.API\\Program.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Program.cs",
-              "RelativeToolTip": "QuanLyThuVien.API\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:28:19.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LoanRecordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\LoanRecordRepository.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Repositories\\LoanRecordRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\LoanRecordRepository.cs",
-              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Repositories\\LoanRecordRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:38:48.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoanRecordController.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\LoanRecordController.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.API\\Controllers\\LoanRecordController.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\LoanRecordController.cs",
-              "RelativeToolTip": "QuanLyThuVien.API\\Controllers\\LoanRecordController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:04:50.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoanRecordService.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\LoanRecordService.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Services\\LoanRecordService.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\LoanRecordService.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\Services\\LoanRecordService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:40:52.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20250327090138_newint.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Migrations\\20250327090138_newint.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Migrations\\20250327090138_newint.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Migrations\\20250327090138_newint.cs",
-              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Migrations\\20250327090138_newint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T09:01:38.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ILoanRecordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\ILoanRecordRepository.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Interfaces\\ILoanRecordRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\ILoanRecordRepository.cs",
-              "RelativeToolTip": "QuanLyThuVien.Domain\\Interfaces\\ILoanRecordRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:37:36.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T02:39:33.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "QuanLyThuVien.Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T02:36:53.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UserDto.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\UserDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UserDto.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:12:55.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Interfaces\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IBookRepository.cs",
-              "RelativeToolTip": "QuanLyThuVien.Domain\\Interfaces\\IBookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:29:38.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BookDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookDto.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\BookDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookDto.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\BookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:31:11.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LoanRecord.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Entities\\LoanRecord.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Entities\\LoanRecord.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Entities\\LoanRecord.cs",
-              "RelativeToolTip": "QuanLyThuVien.Domain\\Entities\\LoanRecord.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:34:34.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CreateLoanRecordDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateLoanRecordDto.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\CreateLoanRecordDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateLoanRecordDto.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\CreateLoanRecordDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:37:16.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LoanRecordDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\LoanRecordDto.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\LoanRecordDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\LoanRecordDto.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\LoanRecordDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:35:12.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Entities\\User.cs",
@@ -514,67 +192,457 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateUserDto.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\CreateUserDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateUserDto.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\CreateUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA8wEMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:21:25.903Z",
+              "WhenOpened": "2025-03-27T08:30:07.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UpdateBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UpdateBookDto.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\UpdateBookDto.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UpdateBookDto.cs",
-              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\UpdateBookDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:28:52.667Z",
+              "WhenOpened": "2025-03-27T08:55:32.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "QuanLyThuVien.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "QuanLyThuVien.API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LoanRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\LoanRecordRepository.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Repositories\\LoanRecordRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\LoanRecordRepository.cs",
+              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Repositories\\LoanRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T08:27:35.085Z",
+              "WhenOpened": "2025-03-27T08:38:48.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "QuanLyThuVien.API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwBMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:33:10.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanRecord.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Entities\\LoanRecord.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Entities\\LoanRecord.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Entities\\LoanRecord.cs",
+              "RelativeToolTip": "QuanLyThuVien.Domain\\Entities\\LoanRecord.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:34:34.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:39:33.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\UserService.cs",
               "RelativeToolTip": "QuanLyThuVien.Application\\Services\\UserService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwDAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T08:22:32.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 9,
+              "Title": "LoanRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\LoanRecordService.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Services\\LoanRecordService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\LoanRecordService.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\Services\\LoanRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:40:52.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Services\\BookService.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:32:04.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:23:21.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:53:25.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLoanDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UserLoanDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\UserLoanDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UserLoanDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\UserLoanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:34:15.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:12:55.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UpdateUserDto.cs",
               "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UpdateUserDto.cs",
               "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\UpdateUserDto.cs",
               "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UpdateUserDto.cs",
               "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\UpdateUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T08:22:06.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\UpdateBookDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\UpdateBookDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\UpdateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:28:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TopBorrowedBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\TopBorrowedBookDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\TopBorrowedBookDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\TopBorrowedBookDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\TopBorrowedBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:49:10.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoanRecordDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\LoanRecordDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\LoanRecordDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\LoanRecordDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\LoanRecordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:35:12.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:21:25.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateLoanRecordDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateLoanRecordDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\CreateLoanRecordDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateLoanRecordDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\CreateLoanRecordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:37:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\CreateBookDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\CreateBookDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:31:19.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookWithUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookWithUserDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\BookWithUserDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookWithUserDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\BookWithUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:33:47.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookSummaryDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\BookSummaryDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookSummaryDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\BookSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:24:06.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:31:11.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookDetailDto.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\DTOs\\BookDetailDto.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\DTOs\\BookDetailDto.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\DTOs\\BookDetailDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:01:25.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.API\\Program.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Program.cs",
+              "RelativeToolTip": "QuanLyThuVien.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:28:19.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QuanLyThuVien.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:27:35.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoanRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\LoanRecordController.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.API\\Controllers\\LoanRecordController.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.API\\Controllers\\LoanRecordController.cs",
+              "RelativeToolTip": "QuanLyThuVien.API\\Controllers\\LoanRecordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:04:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Application\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Application\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "QuanLyThuVien.Application\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:26:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "QuanLyThuVien.Domain\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:29:38.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "QuanLyThuVien.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:54:40.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:08:53.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DbInitiaLizer.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Data\\DbInitiaLizer.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Data\\DbInitiaLizer.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Data\\DbInitiaLizer.cs",
+              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Data\\DbInitiaLizer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:08:36.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250327090138_newint.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Migrations\\20250327090138_newint.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Infrastructure\\Migrations\\20250327090138_newint.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Infrastructure\\Migrations\\20250327090138_newint.cs",
+              "RelativeToolTip": "QuanLyThuVien.Infrastructure\\Migrations\\20250327090138_newint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:01:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ILoanRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\ILoanRecordRepository.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Interfaces\\ILoanRecordRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\ILoanRecordRepository.cs",
+              "RelativeToolTip": "QuanLyThuVien.Domain\\Interfaces\\ILoanRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:37:36.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\QuanLyThuVien\\PetProject-QuanLyThuVien-\\QuanLyThuVien.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "QuanLyThuVien.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:36:53.395Z",
               "EditorCaption": ""
             }
           ]

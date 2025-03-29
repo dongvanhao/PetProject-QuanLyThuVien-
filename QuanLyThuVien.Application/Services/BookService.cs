@@ -11,6 +11,7 @@ namespace QuanLySinhVien.Application.Services
     public class BookService : IBookService
     {
         private readonly IBookRepository _repository;
+        
         private readonly IMapper _mapper;
 
         public BookService(IBookRepository repository, IMapper mapper)
@@ -89,7 +90,24 @@ namespace QuanLySinhVien.Application.Services
             var books = await query.ToListAsync();
             return _mapper.Map<List<BookDetailDto>>(books);
         }
-
+        //Top sach dc muon nhieu nhat
+        public async Task<List<BookDetailDto>> GetBooksWithLoansAsync()
+        {
+            var books = await _repository.GetBooksWithLoanRecordsAsync();
+            return _mapper.Map<List<BookDetailDto>>(books);
+        }
+        //Top sach 5 dc muon nhieu nhat
+        public async Task<List<BookSummaryDto>> GetTopBorrowedBooksAsync(int top)
+        {
+            var books = await _repository.GetTopBorrowedBooksAsync(top);
+            return _mapper.Map<List<BookSummaryDto>>(books);
+        }
+        //Lấy danh sách sách cùng với người đã mượn
+        public async Task<List<BookWithUserDto>> GetBooksWithLoanUsersAsync()
+        {
+            var books = await _repository.GetBooksWithLoanUsersAsync();
+            return _mapper.Map<List<BookWithUserDto>>(books);
+        }
 
     }
 }

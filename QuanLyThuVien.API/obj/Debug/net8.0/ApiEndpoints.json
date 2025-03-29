@@ -116,6 +116,42 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "QuanLySinhVien.API.Controllers.BookController",
+    "Method": "GetTopBorrowedBooks",
+    "RelativePath": "api/Book/top-borrowed",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "top",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLySinhVien.API.Controllers.BookController",
+    "Method": "GetBooksWithLoanUsers",
+    "RelativePath": "api/Book/with-loan-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLySinhVien.API.Controllers.BookController",
+    "Method": "GetBooksWithLoans",
+    "RelativePath": "api/Book/with-loans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "QuanLyThuVien.API.Controllers.LoanRecordController",
     "Method": "Borrow",
     "RelativePath": "api/LoanRecord/borrow",

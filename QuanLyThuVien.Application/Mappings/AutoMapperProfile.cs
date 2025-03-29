@@ -28,9 +28,21 @@ namespace QuanLyThuVien.Application.Mappings
             // Ánh xạ Book → BookDetailDto
             CreateMap<Book, BookDetailDto>();
 
-            // Các ánh xạ khác nếu có
-            CreateMap<CreateBookDto, Book>();
-            CreateMap<UpdateBookDto, Book>();
+            
+
+
+            CreateMap<Book, BookSummaryDto>();
+
+
+            CreateMap<Book, BookWithUserDto>()
+            .ForMember(dest => dest.LoanUsers, opt => opt.MapFrom(src =>
+            src.LoanRecords!.Select(lr => new UserLoanDto
+             {
+            LoanRecordId = lr.LoanRecordId,
+            BorrowedDate = lr.LoanDate,
+            FullName = lr.User.FullName
+                }).ToList()
+            ));
 
         }
     }

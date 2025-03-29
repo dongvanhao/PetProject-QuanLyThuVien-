@@ -71,6 +71,27 @@ namespace QuanLySinhVien.API.Controllers
             return Ok(books);
         }
 
+        [HttpGet("with-loans")]
+        public async Task<IActionResult> GetBooksWithLoans()
+        {
+            var books = await _service.GetBooksWithLoansAsync();
+            return Ok(books);
+        }
+
+        [HttpGet("top-borrowed")]
+        public async Task<IActionResult> GetTopBorrowedBooks([FromQuery] int top = 5)
+        {
+            var books = await _service.GetTopBorrowedBooksAsync(top);
+            return Ok(books);
+        }
+
+
+        [HttpGet("with-loan-users")]
+        public async Task<IActionResult> GetBooksWithLoanUsers()
+        {
+            var books = await _service.GetBooksWithLoanUsersAsync();
+            return Ok(books);
+        }
 
 
     }

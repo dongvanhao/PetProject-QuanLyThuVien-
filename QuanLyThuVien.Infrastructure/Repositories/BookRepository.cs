@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using QuanLyThuVien.Application.DTOs;
 using QuanLyThuVien.Domain.Entities;
 using QuanLyThuVien.Domain.Interfaces;
 using QuanLyThuVien.Infrastructure.Data;
@@ -45,5 +46,32 @@ namespace QuanLySinhVien.Infrastructure.Repositories
 
             return await query.CountAsync();
         }
+
+        //lay danh sach luot muon cua sach
+        public async Task<List<Book>> GetBooksWithLoanRecordsAsync()
+        {
+            return await _context.Books
+                .Include(b => b.LoanRecords)
+                .ToListAsync();
+        }
+
+
+        //top sach 5 dc muon nhieu nhat
+        public async Task<List<Book>> GetTopBorrowedBooksAsync(int top)
+        {
+            return await _context.Books
+                .OrderByDescending(b => b.LoanRecords.Count)
+                .Take(top)
+                .ToListAsync();
+        }
+        //Lấy danh sách sách cùng với người đã mượn
+        public async Task<List<Book>> GetBooksWithLoanUsersAsync()
+        {
+            return await _context.Books
+                .Include(b => b.LoanRecords!)
+                    .ThenInclude(lr => lr.User)
+                .ToListAsync();
+        }
+
     }
 }
