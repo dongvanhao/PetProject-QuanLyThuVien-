@@ -8,7 +8,7 @@ namespace QuanLyThuVien.Application.DTOs
 {
     public class CreateBookDto
     {
-
+        public string Title { get; set; }//Tieu de
         public string Author { get; set; }//Tac gia
 
         public int Year { get; set; }
