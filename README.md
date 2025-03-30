@@ -11,3 +11,4 @@ Hệ thống Quản lý Thư viện
 - Entity Framework Core: Kết nối và thao tác với database.  
 - AutoMapper: Chuyển đổi giữa entity và DTO.  
 - Logging & Exception Handling: Ghi log và xử lý lỗi.  
+-AsNoTracking:EF theo dõi(track) các object đã truy vấn để tự động cập nhật chúng nếu ta sửa, khi dùng Include, các list như LoanRecords, User có thể bị track sẵn, gây lỗi hoặc hiệu năng chậm
