@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuanLyThuVien.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27803e115914c35d02bf0aac06e220a63cfd879c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d4ad6939b769092632e49f9c6673f55ebfebfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuanLyThuVien.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuanLyThuVien.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

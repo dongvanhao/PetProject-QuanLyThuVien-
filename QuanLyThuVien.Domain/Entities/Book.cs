@@ -12,7 +12,7 @@ namespace QuanLyThuVien.Domain.Entities
 
         [Required]
         [StringLength(255)]
-        public string Title { get; set; } = string.Empty; // ⭐ Bạn nên thêm Tên sách
+        public string Title { get; set; } = string.Empty; // Tên sách
 
         [Required]
         [StringLength(255)]
@@ -24,7 +24,7 @@ namespace QuanLyThuVien.Domain.Entities
 
         [Required]
         [Column(TypeName = "decimal(18,2)")]
-        public decimal Cost { get; set; } // ⭐ Dùng decimal cho giá
+        public decimal Cost { get; set; } //Dùng decimal cho giá
 
         [Required]
         [StringLength(100)]

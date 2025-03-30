@@ -18,14 +18,14 @@ namespace QuanLySinhVien.Infrastructure.Repositories
 
         public async Task<IEnumerable<Book>> SearchAsync(string? keyword, int page, int pageSize)
         {
-            var query = _context.Books.AsQueryable();
+            var query = _context.Books.AsNoTracking();//AsNoTracking giúp truy vấn nhẹ,chỉ đọc dữ liệu
 
             if (!string.IsNullOrWhiteSpace(keyword))
             {
                 query = query.Where(b =>
                     b.Title.Contains(keyword) ||
                     b.Genre.Contains(keyword) ||
-                    b.Author.Contains(keyword)); // nếu có thuộc tính Author
+                    b.Author.Contains(keyword));
             }
 
             return await query
@@ -34,10 +34,9 @@ namespace QuanLySinhVien.Infrastructure.Repositories
                 .ToListAsync();
         }
 
-
         public async Task<int> CountAsync(string? keyword)
         {
-            var query = _context.Books.AsQueryable();
+            var query = _context.Books.AsNoTracking(); //Truy vấn tổng hợp
 
             if (!string.IsNullOrWhiteSpace(keyword))
             {
@@ -47,31 +46,30 @@ namespace QuanLySinhVien.Infrastructure.Repositories
             return await query.CountAsync();
         }
 
-        //lay danh sach luot muon cua sach
         public async Task<List<Book>> GetBooksWithLoanRecordsAsync()
         {
             return await _context.Books
+                .AsNoTracking()//Tránh track list LoanRecords
                 .Include(b => b.LoanRecords)
                 .ToListAsync();
         }
 
-
-        //top sach 5 dc muon nhieu nhat
         public async Task<List<Book>> GetTopBorrowedBooksAsync(int top)
         {
             return await _context.Books
+                .AsNoTracking()//Tránh track trong thống kê
                 .OrderByDescending(b => b.LoanRecords.Count)
                 .Take(top)
                 .ToListAsync();
         }
-        //Lấy danh sách sách cùng với người đã mượn
+
         public async Task<List<Book>> GetBooksWithLoanUsersAsync()
         {
             return await _context.Books
+                .AsNoTracking()// truy vấn sâu, cần tối ưu RAM
                 .Include(b => b.LoanRecords!)
                     .ThenInclude(lr => lr.User)
                 .ToListAsync();
         }
-
     }
 }

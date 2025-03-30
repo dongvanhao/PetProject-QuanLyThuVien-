@@ -20,6 +20,7 @@ namespace QuanLyThuVien.Infrastructure.Repositories
         public async Task<IEnumerable<LoanRecord>> GetByUserAsync(int userId)
         {
             return await _context.LoanRecords
+                .AsNoTracking()//Truy vấn chỉ đọc, tránh tracking Book/User
                 .Include(r => r.Book)
                 .Include(r => r.User)
                 .Where(r => r.UserId == userId)
