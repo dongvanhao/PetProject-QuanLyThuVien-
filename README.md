@@ -12,3 +12,7 @@ Hệ thống Quản lý Thư viện
 - AutoMapper: Chuyển đổi giữa entity và DTO.  
 - Logging & Exception Handling: Ghi log và xử lý lỗi.  
 -AsNoTracking:EF theo dõi(track) các object đã truy vấn để tự động cập nhật chúng nếu ta sửa, khi dùng Include, các list như LoanRecords, User có thể bị track sẵn, gây lỗi hoặc hiệu năng chậm
+Error Handling Pattern:
+•	Bắt lỗi(Exception) xảy ra khi chương trình chạy
+•	Xử lí lỗi một cách có kiểm soát(log, thông báo, rollback,…)
+•	Tránh crash chương trình hoặc trả kết quả sai cho người dùng
