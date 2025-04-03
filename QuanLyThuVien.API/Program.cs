@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using QuanLySinhVien.Application.Interfaces;
 using QuanLySinhVien.Application.Services;
 using QuanLySinhVien.Infrastructure.Repositories;
+using QuanLyThuVien.API.Middleware;
 using QuanLyThuVien.Application.Interfaces;
 using QuanLyThuVien.Application.Mappings;
 using QuanLyThuVien.Application.Services;
@@ -30,13 +31,14 @@ builder.Services.AddScoped<ILoanRecordRepository, LoanRecordRepository>();
 builder.Services.AddScoped<ILoanRecordService, LoanRecordService>();
 var app = builder.Build();
 // Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseMiddleware<ExceptionMiddleware>();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
