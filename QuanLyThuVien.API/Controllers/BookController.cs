@@ -9,7 +9,6 @@ namespace QuanLySinhVien.API.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
-        
         private readonly IBookService _service;
         private readonly ILogger<BookController> _logger;
 
@@ -22,18 +21,10 @@ namespace QuanLySinhVien.API.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll([FromQuery] string? keyword, int page = 1, int pageSize = 10)
         {
-            _logger.LogInformation("📘 [GET] /api/book - Tìm tất cả sách với keyword = {Keyword}", keyword);
+            _logger.LogInformation("📘 [GET] /api/book - keyword = {Keyword}", keyword);
 
-            try
-            {
-                var books = await _service.GetAllAsync(keyword, page, pageSize);
-                return Ok(books);
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, "❌ Lỗi khi lấy danh sách sách");
-                return StatusCode(500, new { message = ex.Message });
-            }
+            var books = await _service.GetAllAsync(keyword, page, pageSize);
+            return Ok(books);
         }
 
         [HttpGet("{id}")]
@@ -65,7 +56,7 @@ namespace QuanLySinhVien.API.Controllers
         {
             if (id != dto.BookId)
             {
-                _logger.LogWarning("⚠️ [PUT] Id không khớp: route = {RouteId}, body = {BodyId}", id, dto.BookId);
+                _logger.LogWarning("⚠️ [PUT] ID không khớp: route = {RouteId}, body = {BodyId}", id, dto.BookId);
                 return BadRequest();
             }
 
@@ -97,7 +88,7 @@ namespace QuanLySinhVien.API.Controllers
         [HttpGet("filter-options")]
         public async Task<IActionResult> GetBooksByFilter([FromQuery] string field, [FromQuery] string? value)
         {
-            _logger.LogInformation("🔍 [GET] /api/book/filter-options?field={Field}&value={Value}", field, value);
+            _logger.LogInformation("🔍 [GET] /api/book/filter-options - field = {Field}, value = {Value}", field, value);
 
             var books = await _service.GetBooksByFieldAsync(field, value);
             return Ok(books);
@@ -115,7 +106,7 @@ namespace QuanLySinhVien.API.Controllers
         [HttpGet("top-borrowed")]
         public async Task<IActionResult> GetTopBorrowedBooks([FromQuery] int top = 5)
         {
-            _logger.LogInformation("🏆 [GET] /api/book/top-borrowed?top={Top}", top);
+            _logger.LogInformation("🏆 [GET] /api/book/top-borrowed - top = {Top}", top);
 
             var books = await _service.GetTopBorrowedBooksAsync(top);
             return Ok(books);
